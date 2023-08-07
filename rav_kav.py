@@ -3,7 +3,7 @@ import sqlite3
 
 # Server configuration
 HOST = "xxxxxxxxxx"  # or localhost
-PORT = 54423
+PORT = 42141
 
 # SQLite database initialization
 conn = sqlite3.connect('cards.db')
