@@ -2,7 +2,7 @@ import socket
 import sqlite3
 
 # Server configuration
-HOST = "192.168.56.1"  # or localhost
+HOST = "xxxxxxxxxx"  # or localhost
 PORT = 54423
 
 # SQLite database initialization
