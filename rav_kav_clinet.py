@@ -1,7 +1,7 @@
 
 import socket
 
-HOST = "192.168.56.1"  # or localhost, should match the server's HOST
+HOST = "xxxxxxxxx"  # or localhost, should match the server's HOST
 PORT = 42141 # should match the server's PORT
 
 def send_request_and_receive_response(request):
